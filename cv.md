@@ -17,7 +17,7 @@ And finally you see how you project is living its life and you find out that the
 ```
 func Solution(word string) string {
   r := []rune(word)
-  for i, j := 0, len(r)-1; i < len(r)/2; i, j = i+1, j-1 {
+  for i, j := 0, len(r)-1; i &lt; len(r)/2; i, j = i+1, j-1 {
     r[i], r[j] = r[j], r[i]
   }
   return string(r)
