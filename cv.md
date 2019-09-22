@@ -61,3 +61,17 @@ func Solution(word string) string {
 * Products quality control
 * **Done:** Gave life to three successful products lines (milk, meat, frozen products) – from idea proved to executives to successful sales
 * **Done:**Fetched several key suppliers
+## Education
+**09.2018 – 12.2018** - Educational Center of HTP, Course: Business Analysis in IT
+Description: Theory and practice of Business Analysis (88 hours theory, 48 hours practice)
+**09.2010 - 06.2011** – Belarusian State University, Faculty of International Relations
+Specialization: World Economy (Master’s degree)
+**09.2005 - 06.2010** - Belarusian State University, Faculty of International Relations
+Specialization: Customs Affairs (Bachelor degree, Specialist)
+**COURSES:** *03.2019 - 05.2019* Introduction to Golang programming; *06.2019 - 07.2019* - Introduction to computer science; *present* - Business English Course
+**Trainings and Meetups:** Agile: Team Tools (11.03.2019); Saturday in Agile Style (02.03.2019); SAPUI5 Open MeetUp (26.02.2019); SAP Tech Talks: Customer Experience (06.02.2019); BA: When business and analysis are indivisible (29.01.2019); Scrum master practices (28.01.2019); Women In Technology Week (18-22.03.2019)
+## English Proficiency: 
+**Upper-Intermediate:** 
+* school with english lessons from the 1st grade
+* International Relations Faculty in University including 1 state exam for graduation + 1 state exam for matser's degree
+* Towards to European Federation course in Helsinki Summer School in Helsinki University
