@@ -1,0 +1,39 @@
+body {
+    max-width: 1024px;
+    margin: auto;
+}
+h1 {
+    display: block;
+    text-align: center;
+    text-transform: uppercase;  
+    color: white;
+}
+h2 {
+    text-align: center;
+    font-size: 1.5em;
+}
+h3 {
+    color: DimGrey;
+}
+li {
+    text-align: left;
+}
+em {
+    font-size: 1.1em;
+}
+strong {
+    color: DimGrey;
+}
+.alelik {
+    position: relative;
+    display: block;
+    margin: auto;
+    height: 400px;
+    width: 400px;
+    background-image: url("./alelik.jpg");
+    background-size: cover;
+    background-position: center;
+    -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+}
